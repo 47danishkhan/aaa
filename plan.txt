@@ -1,0 +1,8 @@
+1. Create 3 Ec2 instances with key pair and security groups using Terraform
+2. Install Jenkins on all instances
+3. Make a jenkins server
+4. Make other 2 instaces as slave nodes attached to master node
+
+5. Make an index.html file and push to Github
+6. Configure a pipleline using declarative method to test build and deploy the website on 1 slave node
+6. Make changes to code so website is updated automatically through jenkins pipeline as code.
